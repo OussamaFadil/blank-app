@@ -1,1 +1,6 @@
 streamlit
+easyocr
+opencv-python
+numpy
+pillow
+spellchecker
